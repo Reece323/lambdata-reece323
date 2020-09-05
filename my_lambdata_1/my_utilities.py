@@ -9,11 +9,8 @@ class MyDataSplitter():
 
     def __init__(self, df):
         self.df = df
-
-
-
-
-def train_validation_test_split(self, features, target,
+    
+    def train_validation_test_split(self, features, target,
                                     train_size=0.7, val_size=0.1,
                                     test_size=0.2, random_state=None,
                                     shuffle=True):
