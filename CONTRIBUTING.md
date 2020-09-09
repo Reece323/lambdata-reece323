@@ -15,11 +15,11 @@ Create / Activate virtual env:
 ```sh
 pipenv --python 3.7
 pipenv install #does all packages in Pipfile
-pipenv shel
+pipenv shell
 ```
 
 Run example script:
 
 ```sh
-python -m my_lambdata.my_script
+python -m my_lambdata.test_functions
 ```
