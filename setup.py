@@ -17,5 +17,5 @@ setup(
     # license="MIT",
     url="https://github.com/Reece323/lambdata-reece323",
     # keywords="",
-    packages=find_packages()  # ["my_lambdata_1"]
+    packages=['my_lambdata_1']    #find_packages()  # ["my_lambdata_1"]
 )
